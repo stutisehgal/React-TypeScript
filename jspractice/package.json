@@ -1,0 +1,14 @@
+{
+  "name": "jspractice",
+  "version": "1.0.0",
+  "description": "my first node package",
+  "type":"module",
+  "main":"moduleprac.js",
+  
+  "scripts":{
+    "test":"echo no test for this app",
+    "doit":"node moduleprac.js"
+  },
+  "author":"Stuti",
+  "license":"ISC"
+}
